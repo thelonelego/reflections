@@ -1,0 +1,11 @@
+Reflections.txt
+
+Version  control notes:
+
+diff -u file1 file2 
+— shows differences between file1 and file2
+-u means unified and helps format the info to be 
+more readable when it’s printed out.
+
+git log
+--shows commit history with commit messages
